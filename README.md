@@ -1,11 +1,13 @@
 # b_AI_atro
+Bot de balatro utilizando IA.
+
 
 ## Links interessantes:
 - https://github.com/besteon/balatrobot
 
 Uma opção seria usar esse balatrobot, que serve como uma interface para o jogo. Outra opção seria usar visão computacional, onde o a extração do que tá acontecendo no jogo vem do processamento do que está aparecendo NA TELA, dependendo das capacidades da primeira implementação, talvez seja necessário usar a segunda, que seria (um pouquinho) mais complicada, mas uma vez que foi implementada é só usar
 
-Algorítmo:
+### Algorítmo:
 - jogo começa, inicia o game loop
 - 1: Jogar as cartas para bater a pontuação
   -  **Decisões:** Quais cartas jogar  
